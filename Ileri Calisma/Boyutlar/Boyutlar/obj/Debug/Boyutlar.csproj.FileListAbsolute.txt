@@ -1,0 +1,5 @@
+c:\users\fatih\documents\visual studio 2015\Projects\Boyutlar\Boyutlar\bin\Debug\Boyutlar.dll
+c:\users\fatih\documents\visual studio 2015\Projects\Boyutlar\Boyutlar\bin\Debug\Boyutlar.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\Boyutlar\Boyutlar\obj\Debug\Boyutlar.csprojResolveAssemblyReference.cache
+c:\users\fatih\documents\visual studio 2015\Projects\Boyutlar\Boyutlar\obj\Debug\Boyutlar.dll
+c:\users\fatih\documents\visual studio 2015\Projects\Boyutlar\Boyutlar\obj\Debug\Boyutlar.pdb

@@ -1,0 +1,22 @@
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Proje.exe.config
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Proje.exe
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Proje.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Boyutlar.dll
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Boyutlar.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.Form1.resources
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.exe
+c:\users\fatih\documents\visual studio 2015\Projects\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\bin\Debug\Boyutlar.dll
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\bin\Debug\Boyutlar.pdb
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Ileri Calisma\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\bin\Debug\Messagesing.exe.config
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.Form1.resources
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\bin\Debug\Messagesing.exe
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\bin\Debug\Messagesing.pdb
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.exe
+C:\Users\Fatih\Desktop\Ileri Calisma\Messagesing\Messagesing\obj\Debug\Messagesing.pdb

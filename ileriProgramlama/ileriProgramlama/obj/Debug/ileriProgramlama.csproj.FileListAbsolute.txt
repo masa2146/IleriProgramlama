@@ -1,0 +1,14 @@
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.exe.config
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.exe
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\bin\Debug\Dosya.dll
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\bin\Debug\Dosya.pdb
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.csprojResolveAssemblyReference.cache
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.Form1.resources
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.Properties.Resources.resources
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.csproj.GenerateResource.Cache
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.exe
+c:\users\fatih\documents\visual studio 2015\Projects\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.pdb
+C:\Users\Fatih\Desktop\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.exe.config
+C:\Users\Fatih\Desktop\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.exe
+C:\Users\Fatih\Desktop\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.pdb
